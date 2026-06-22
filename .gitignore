@@ -1,0 +1,64 @@
+# Dart tool cache
+.dart_tool/
+
+# Build outputs
+build/
+
+# Package dependencies (generated)
+.packages
+pubspec.lock
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+# Dart tool cache
+.dart_tool/
+
+# Build outputs
+build/
+
+# Package dependencies (generated)
+.packages
+pubspec.lock
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Extras (recommended)
+pubspec.override.yaml
+*.snapshot
+*.swp
+*.swo
+*.tmp
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
